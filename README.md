@@ -12,6 +12,6 @@ No preview available
 
 ## Contributors
 
-- **[@vianneynara](https://github.com/vianneynara)**
-- **[@trustacean](https://github.com/Trustacean)**
-- Jordan V.
+- **[@vianneynara](https://github.com/vianneynara)** (Nara)
+- **[@trustacean](https://github.com/Trustacean)** (Edward)
+- **[@ZeroFairy](https://github.com/ZeroFairy)** (Jordan)
