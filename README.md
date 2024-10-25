@@ -1,4 +1,4 @@
-# WZ Snack And Bites
+# Kuenya WZ Website
 
 A web application composed of React user interface with connection to our Spring RESTful API.
 
